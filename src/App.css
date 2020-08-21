@@ -1,0 +1,23 @@
+.App {
+    text-align: center;
+    color: rgb(0, 0, 0);
+    border: 3px solid black;
+    font-style: oblique;
+    background-color: rgb(255, 245, 108);
+}
+
+.App-header {
+    background-color: #282c34;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: top;
+    justify-content: top;
+    font-size: calc(48px + 2vmin);
+    background-color: rgb(255, 255, 255);
+}
+
+.Menu {
+    font-size: 24px;
+    padding-left: 55px;
+}
