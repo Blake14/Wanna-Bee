@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Wanna-Bee/static/css/main.c8a6f2be.chunk.css",
+    "main.js": "/Wanna-Bee/static/js/main.04ccfbb2.chunk.js",
+    "main.js.map": "/Wanna-Bee/static/js/main.04ccfbb2.chunk.js.map",
+    "runtime-main.js": "/Wanna-Bee/static/js/runtime-main.10abafd8.js",
+    "runtime-main.js.map": "/Wanna-Bee/static/js/runtime-main.10abafd8.js.map",
+    "static/js/2.8a3f330b.chunk.js": "/Wanna-Bee/static/js/2.8a3f330b.chunk.js",
+    "static/js/2.8a3f330b.chunk.js.map": "/Wanna-Bee/static/js/2.8a3f330b.chunk.js.map",
+    "index.html": "/Wanna-Bee/index.html",
+    "precache-manifest.c996806bcee5aa568a7937291764c86b.js": "/Wanna-Bee/precache-manifest.c996806bcee5aa568a7937291764c86b.js",
+    "service-worker.js": "/Wanna-Bee/service-worker.js",
+    "static/css/main.c8a6f2be.chunk.css.map": "/Wanna-Bee/static/css/main.c8a6f2be.chunk.css.map",
+    "static/js/2.8a3f330b.chunk.js.LICENSE.txt": "/Wanna-Bee/static/js/2.8a3f330b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.10abafd8.js",
+    "static/js/2.8a3f330b.chunk.js",
+    "static/css/main.c8a6f2be.chunk.css",
+    "static/js/main.04ccfbb2.chunk.js"
+  ]
+}
