@@ -10,7 +10,7 @@ function App() {
         Wanna-Bee Games{" "}
       </div>{" "}
       <div className="Menu">
-        <h1> Menu </h1> <h1> Help </h1> <h1> Contact </h1>{" "}
+        <h1> Menu </h1>
       </div>{" "}
       <div>
         <Game name="Pacman" />
