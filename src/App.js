@@ -1,6 +1,7 @@
 import React from "react";
 import Game from "./Game";
 import "./App.css";
+import Jukebox from "./Jukebox";
 
 function App() {
   return (
@@ -10,11 +11,13 @@ function App() {
         Wanna-Bee Games{" "}
       </div>{" "}
       <div className="Menu">
-        <h1> Menu </h1> <h1> Help </h1> <h1> Contact </h1>{" "}
+        <h1> Trending </h1>
+        <h1> Categories </h1>
+        <h1> Your Favorites </h1>
       </div>{" "}
       <div>
-        <Game name="Pacman" />
-        <Game name="Snake" />
+        <h1 className="h">Game Canvas</h1>
+        <Jukebox gameName="Pacman" />
       </div>
     </div>
   );

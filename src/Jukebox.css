@@ -1,0 +1,14 @@
+.Jukebox {
+    min-height: 100vh;
+    background-color: #282c34;
+    display: flex;
+    flex-direction: column;
+    align-items: top;
+    justify-content: center;
+    font-size: calc(48px + 2vmin);
+    height: 250px;
+    color: white;
+    font-variant-caps: petite-caps;
+    text-align: center;
+    border: 3px solid black;
+}
