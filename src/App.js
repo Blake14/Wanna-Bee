@@ -1,14 +1,24 @@
 import React from "react";
+import Game from "./Game";
 import "./App.css";
+import Jukebox from "./Jukebox";
 
 function App() {
   return (
     <div className="App-header">
-      <div className="App"> WeBoard </div>{" "}
-      <div className="Menu">
-        <p1> Menu </p1> <p1> Help </p1> <p1> Contact </p1>{" "}
-        <h1> It is {new Date().toLocaleDateString()}. </h1>{" "}
+      <div className="App" height="150px">
+        {" "}
+        Wanna-Bee Games{" "}
       </div>{" "}
+      <div className="Menu">
+        <h1> Trending </h1>
+        <h1> Categories </h1>
+        <h1> Your Favorites </h1>
+      </div>{" "}
+      <div>
+        <h1 className="h">Game Canvas</h1>
+        <Jukebox gameName="Pacman" />
+      </div>
     </div>
   );
 }
