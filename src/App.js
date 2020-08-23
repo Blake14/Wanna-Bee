@@ -11,9 +11,9 @@ function App() {
         Wanna-Bee Games{" "}
       </div>{" "}
       <div className="Menu">
-        <h1> Trending </h1>
-        <h1> Categories </h1>
-        <h1> Your Favorites </h1>
+        <h1 className="trending"> Trending </h1>
+        <h1 className="categories"> Categories </h1>
+        <h1 className="favs"> Your Favorites </h1>
       </div>{" "}
       <div>
         <h1 className="h">Game Canvas</h1>
