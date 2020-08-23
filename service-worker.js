@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Wanna-Bee/precache-manifest.c996806bcee5aa568a7937291764c86b.js"
+  "/Wanna-Bee/precache-manifest.386db64a540f8fe991e146a52e87d7fe.js"
 );
 
 self.addEventListener('message', (event) => {
