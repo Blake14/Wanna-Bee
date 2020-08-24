@@ -1,5 +1,4 @@
 import React from "react";
-import Game from "./Game";
 import "./App.css";
 import Jukebox from "./Jukebox";
 
